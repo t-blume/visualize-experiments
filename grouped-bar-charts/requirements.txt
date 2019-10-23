@@ -1,0 +1,10 @@
+sklearn
+numpy
+gensim
+jupyter
+nltk
+beautifulsoup4
+pandas
+tqdm
+tabulate
+matplotlib

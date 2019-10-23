@@ -1,0 +1,4 @@
+**/env/**
+*.png
+**/.ipynb_checkpoints/**
+
