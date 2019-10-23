@@ -1,4 +1,4 @@
-# visualize-experiments
+# Visualize Experimental Results
 Generate nice charts from experimental results with multiple dimensions and categorical data with custom sorting.
 
 
