@@ -1,5 +1,5 @@
 # visualize-experiments
-Generate nice charts from experimental results.
+Generate nice charts from experimental results with multiple dimensions and categorical data with custom sorting.
 
 
 ## Quick start
