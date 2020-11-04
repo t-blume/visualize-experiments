@@ -1,0 +1,9 @@
+Iteration,NewlyObservedSchema (SE_new),DeletedSchemaStructures (SE_del),ChangedSchemaStructures (SE_mod),InstanceAddedWithKnownSchema (PE_add),InstancesDeleted (PE_del),InstanceNotChanged (PE_mod),TotalNumberOfSchemaElementsWritten,TotalNumberOfSchemaElementsDeleted,TotalNumberOfNewInstances,ChangedSchemaStructuresBecauseOfNeighbor,TotalNumberOfChangedPayloadElements (real PE_mod),PayloadEntriesAdded,PayloadEntriesRemoved,InstanceToSchemaLinksAdded,InstanceToSchemaLinksRemoved
+0,50207,0,0,0,0,0,50208,0,0,0,0,0,0,0,0 
+1,10061,5988,91393,0,0,6168411,10061,5988,0,0,0,0,0,0,0 
+2,5620,7331,77256,0,0,5879103,5620,7331,0,0,0,0,0,0,0 
+3,11226,7408,114502,0,0,6137287,11226,7408,0,0,0,0,0,0,0 
+4,8738,9737,1251480,0,0,7832046,8738,9737,0,0,0,0,0,0,0 
+5,4558,10921,77672,0,0,5730094,4558,10921,0,0,0,0,0,0,0 
+6,10286,5576,101249,0,0,5794654,10286,5576,0,0,0,0,0,0,0 
+7,6901,8932,1282874,0,0,7131519,6901,8932,0,1,0,0,0,0,0 
