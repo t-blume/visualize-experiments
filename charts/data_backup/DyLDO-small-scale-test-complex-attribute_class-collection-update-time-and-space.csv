@@ -1,4 +1,0 @@
-Iteration,SecondaryIndex Read time (ms),SecondaryIndex Write time (ms),SecondaryIndex Del time (ms),SecondaryIndex Total time (ms),SE links,Imprint links,Checksum links,Sec. Index Size (bytes),Schema Elements (SE),Schema Relations (SR),Index Size (bytes),Graph Size (bytes),SG Read time (ms),SG Write time (ms),SG Del time (ms)
-0,87,178870,0,178957,5666,101833,101827,2905569,6209,33949,0,0,112062,0,167
-1,116,147229,0,147345,7596,187520,187518,5493247,8254,44046,0,0,98023,0,261
-2,374,416347,26,416747,5209,325845,325836,8823577,5595,32715,0,0,279750,0,1996
