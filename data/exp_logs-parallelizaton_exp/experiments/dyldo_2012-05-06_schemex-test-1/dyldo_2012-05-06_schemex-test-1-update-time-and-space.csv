@@ -1,0 +1,2 @@
+Iteration,Update time,Reading time,Waiting time,Total time,SE links,Imprint links,Checksum links,Sec. Index Size (bytes),Schema Elements (SE),Schema Relations (SR),Index Size (bytes),Graph Size (bytes),SG Add time (ms),SG Del time (ms),SG Read time (ms)
+0,19183,3399,903,23485,245291,6429133,6429133,269507720,254919,1369001,366149632,1282529109,67343144,324,43139280

@@ -1,0 +1,2 @@
+Iteration;timeLoadingData (ms);timeParsingData (ms);timeSummarizeData (ms);timeAggregateSummaries (ms);timeWriteSummaries (ms);timeDeleteSummaries (ms);totalTimeUpdate (ms);totalTime (ms)
+0;398;6058493;44;24;345040417;70903;345111320;351170279

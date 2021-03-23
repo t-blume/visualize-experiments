@@ -1,0 +1,7 @@
+Iteration;NewlyObservedSchema (SE_new);DeletedSchemaStructures (SE_del);ChangedSchemaStructures (SE_mod);InstanceAddedWithKnownSchema (PE_add);InstancesDeleted (PE_del);InstanceNotChanged (PE_mod);TotalNumberOfSchemaElementsWritten;TotalNumberOfSchemaElementsDeleted;TotalNumberOfNewInstances;ChangedSchemaStructuresBecauseOfNeighbor;TotalNumberOfChangedPayloadElements (real PE_mod);PayloadEntriesAdded;PayloadEntriesRemoved;InstanceToSchemaLinksAdded;InstanceToSchemaLinksRemoved
+0;1765;0;0;0;0;0;1787;0;310777;0;310777;310777;0;310777;0 
+1;36;10;376;0;0;310382;36;10;6309;6;6329;6309;0;6684;395 
+2;38;27;410;0;0;316599;39;27;6917;73;6976;6917;0;7325;467 
+3;17;21;406;0;0;323486;17;21;4592;15;4624;4592;0;4998;438 
+4;60;34;967;0;0;327508;62;34;2965;90;2974;2965;0;3932;976 
+5;55;30;573;0;0;330833;55;30;63962;153;63997;63962;0;64534;607 
