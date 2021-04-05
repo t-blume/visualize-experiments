@@ -1,0 +1,5 @@
+sync -ru tblume@kdsrv02:/tmp/spark-events/* spark_logs-memory_exp
+
+rsync -ru tblume@kdsrv02:/tmp/spark-memory/ spark_logs-memory_exp/spark-memory/
+
+rsync -ru tblume@kdsrv02:/data13/tblume/fluid-spark/experiments/ exp_logs-memory_exp/experiments/
