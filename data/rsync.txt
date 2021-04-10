@@ -1,5 +1,17 @@
+# kdsrv02
+
 sync -ru tblume@kdsrv02:/tmp/spark-events/* spark_logs-memory_exp
 
 rsync -ru tblume@kdsrv02:/tmp/spark-memory/ spark_logs-memory_exp/spark-memory/
 
 rsync -ru tblume@kdsrv02:/data13/tblume/fluid-spark/experiments/ exp_logs-memory_exp/experiments/
+
+
+# kdsrv01
+
+rsync -ru tblume@kdsrv01:/tmp/spark-events/* spark_logs-parallelization_exp/
+
+rsync -ru tblume@kdsrv01:/data6/tblume/fluid-spark/experiments/ exp_logs-parallelizaton_exp/experiments/
+
+
+rsync -ru tblume@kdsrv01:/data6/tblume/fluid-spark/logs/ exp_logs-parallelizaton_exp/logs/
