@@ -27,14 +27,17 @@ def collect_statistics(analyze_app, event_dir='/tmp/spark-events', memory_dir='/
     onlyfiles = [f for f in listdir(event_dir) if isfile(join(event_dir, f)) and 'inprogress' not in f]
 
     for file in onlyfiles:
-        with open(join(event_dir, file)) as f:
-
+        with open(join(event_dir, file)) as f:     
             content = f.readlines()
             batch_computation = False
             iteration_number = -1
             for line in content:
-                event = json.loads(line)
-
+                try:
+                    event = json.loads(line)
+                except:
+                    print(file)
+                    print(line)
+                    return None
                 if event['Event'] == 'SparkListenerEnvironmentUpdate':
                     app_name = event['Spark Properties']['spark.app.name']
                     if app_name.startswith(analyze_app):
