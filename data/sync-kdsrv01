@@ -1,0 +1,3 @@
+rsync -ru tblume@kdsrv01:/tmp/spark-events/* spark_logs-parallelization_exp/
+rsync -ru tblume@kdsrv01:/data6/tblume/fluid-spark/experiments/ exp_logs-parallelizaton_exp/experiments/
+rsync -ru tblume@kdsrv01:/data6/tblume/fluid-spark/logs/ exp_logs-parallelizaton_exp/logs/
